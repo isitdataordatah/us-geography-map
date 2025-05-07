@@ -11,13 +11,7 @@ The `census/shapefiles/` directory contains shapefiles from the US Census Bureau
 
 ## Data Sources
 
-*   US Census Bureau
+* US Census Bureau
+* USPS
+* HUD
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any problems or have suggestions for improvement.
-
-## License
-
-[Specify a license for your project here, e.g., MIT, GPL, etc.] 
-`
